@@ -1,0 +1,6 @@
+django-admin startproject BuildWise_crud
+cd BuildWise_crud
+python manage.py startapp tasks
+
+
+https://chat.openai.com/c/3c80b89f-cb7f-41d9-960b-f1d13b6c4c25
